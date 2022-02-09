@@ -1,12 +1,5 @@
 # - *- coding: utf-8 -*-
 
-from distutils.errors import DistutilsGetoptError
-from operator import index
-from re import X
-from turtle import title, update
-
-from pyparsing import line
-
 """
 @author: Diego 
 
